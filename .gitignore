@@ -1,0 +1,3 @@
+ *.dat
+!jupyter.dat
+
